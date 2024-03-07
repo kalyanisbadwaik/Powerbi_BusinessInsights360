@@ -12,7 +12,11 @@ AtliQ Hardware, a leading global manufacturer, embarked on a journey to harness 
 
 **Key Insights: **
 Finance View: Analyzed crucial KPI indicators such as Net Sales, Gross Margin %, and Net Profit %. Created a comprehensive P & L Statement with YOY growth.
+
 Sales View: Explored Customer Performance based on Net Sales and Gross Margin.
+
 Marketing View: Enhanced Marketing insights with segment performance and Net Profit metrics.
+
 Supply Chain View: Surveyed the variance of Actual Sales and Forecast accuracy.
+
 Executive View: Examined Yearly Trends by Revenue, GM %, NP % & Market Share %. Listed the TOP 5 Customers & Products by Revenue Contribution.
