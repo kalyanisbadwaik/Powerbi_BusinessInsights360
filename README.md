@@ -11,6 +11,7 @@ AtliQ Hardware, a leading global manufacturer, embarked on a journey to harness 
 ➡ Project Management tools
 
 **Key Insights: **
+
 Finance View: Analyzed crucial KPI indicators such as Net Sales, Gross Margin %, and Net Profit %. Created a comprehensive P & L Statement with YOY growth.
 
 Sales View: Explored Customer Performance based on Net Sales and Gross Margin.
